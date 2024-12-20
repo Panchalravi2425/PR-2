@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>PANCHAL RAVI </h1>
+    <p>Email: PANCHALRAVI5253@GMAIL.com</p>
+    <p>Phone: 99******69</p>
+
+    <h2>Professional Summary</h2>
+    <p>Experienced web developer with a strong background in creating dynamic and responsive websites.</p>
+
+    <h2>Experience</h2>
+    <h3> Web Developer</h3>
+    <p>SURIYAM TECH | Jan 2022 - Present</p>
+    <ul>
+        <li>Developed and maintained company website</li>
+        <li>Implemented responsive design to enhance user experience</li>
+    </ul>
+
+    <h2>Education</h2>
+    <h3>Bachelor of Science in Computer Science INFORMATION TECNOLOGHY </h3>
+    <p> SILVER OAK UNIVERITY| Graduated: 2024</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Responsive Design</li>
+        <li>Version Control (Git)</li>
+        <li>Web Performance Optimization</li>
+    </ul>
+</body>
+</html>
